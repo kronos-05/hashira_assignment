@@ -49,34 +49,7 @@ Copy code
   "y": [2, 4, 6],
   "interpolate_at": 2.5
 }
-✅ Example Output
-csharp
-Copy code
-Interpolated value at x = 2.5 is 5.0
-🔧 Requirements
-C++17 or later
-
-nlohmann/json.hpp (already included in nlhomann/ folder)
-
-Windows: WinLibs GCC
-
-Linux/Mac: g++ or clang++ with C++17 enabled
-
-🎯 Why this project?
-Showcases math + programming synergy.
-
-Demonstrates ability to use modern C++ libraries.
-
-Practical application of JSON data handling in C++.
-
-Compact, clear, and recruiter-friendly.
-
-Copy code
 
 
 
 
-
-
-
-Ask ChatGPT
